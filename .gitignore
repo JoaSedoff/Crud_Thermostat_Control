@@ -146,19 +146,7 @@ swag/nginx/*
 swag/nginx/proxy-confs/*
 !swag/nginx/proxy-confs/crud.subfolder.conf
 node-red/
-<<<<<<< HEAD
-
-telegrambot/
-
-swag/
-
-clienteMqtt/
-sensores_remotos.sql
-=======
 telegrambot/
 swag/
 clienteMqtt/
 sensores_remotos.sql
-
-
->>>>>>> beee8acbcc09917ad3b9f726ec710e33ba9a04e5
