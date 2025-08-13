@@ -1,11 +1,9 @@
-# Forzar detección como Python
+
 *.py linguist-detectable=true
 
-# Ignorar archivos de documentación y datos
 *.md linguist-detectable=false
 *.txt linguist-detectable=false
 
-# Ignorar carpetas que no son código
 docs/* linguist-detectable=false
 assets/* linguist-detectable=false
 images/* linguist-detectable=false
