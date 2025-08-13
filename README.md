@@ -39,7 +39,7 @@ Antes de correr la app, se deben tener configuradas las siguientes variables de 
 - MQTT_PASSWORD
 
 
-##Observaciones
+## Observaciones
 - Cada nodo se asocia a un usuario al momento de registrarlo
 - Los comandos MQTT se publican en los tópicos:
     * sensor_id/setpoint
